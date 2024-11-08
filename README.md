@@ -1,4 +1,4 @@
-# SyneX Exploit
+# SyneX Exploit (Synapse Remake)
 --- 
 ![Home Screen (2)](https://github.com/user-attachments/assets/f447761b-cc51-4115-ac92-20e17a200bf3)
 
